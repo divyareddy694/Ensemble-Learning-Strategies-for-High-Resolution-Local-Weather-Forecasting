@@ -1,0 +1,2 @@
+# Ensemble-Learning-Strategies-for-High-Resolution-Local-Weather-Forecasting
+A focus of this research lies on recognizing cyclical aspects of climate, which in turn has a huge impact on daily activities as well as industries like agriculture, transportation, and disaster planning. The dynamics of climate change frustrates organizing and execution of most activities, which deliberates on the role of climate.
